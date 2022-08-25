@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "237867372456",
+    "project_id": "the-zona",
+    "storage_bucket": "the-zona.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:237867372456:android:263b4c674503eca73b979d",
+        "android_client_info": {
+          "package_name": "ae.zona.services"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "237867372456-hkcfimc44psud0f5r4tte4l3vuvslvt0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ae.zona.services",
+            "certificate_hash": "8f7e0317d010b5e95572b76d56990658bc723b93"
+          }
+        },
+        {
+          "client_id": "237867372456-j6u2el02besmslvv1pjsboe38kk932lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA8S2xExp8phOBvGgmFAvsTtSQN7F56YMk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "237867372456-j6u2el02besmslvv1pjsboe38kk932lu.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "237867372456-vhmushgh5eu7ljr8dhabutkjgrnop8qr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.zona.ae"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,754 @@
+{
+    "language": "English",
+    "@language":{
+      "description": "The current Language"
+    },
+    "continueAsAGuest": "Continue as a Guest",
+    "@continueAsAGuest":{
+      "description": "Continue as a Guest"
+    },
+    "signIn": "Sign In",
+    "@signIn":{
+      "description": "Sign In"
+    },
+    "emailAddress": "Email address",
+    "@emailAddress":{
+      "description": "Email address"
+    },
+    "pleaseEnterEmail": "Please enter email",
+    "@pleaseEnterEmail":{
+      "description": "Please enter email"
+    },
+    "email": "Email",
+    "@email":{
+      "description": "Email"
+    },
+    "pleaseEnterPassword": "Please enter password",
+    "@pleaseEnterPassword":{
+      "description": "Please enter password"
+    },
+    "password": "Password",
+    "@password":{
+      "description": "Password"
+    },
+    "wrongEmailOrPassword": "Wrong email or password",
+    "@wrongEmailOrPassword":{
+      "description": "Wrong email or password"
+    },
+    "loggedSuccessfully": "Logged successfully",
+    "@loggedSuccessfully":{
+      "description": "Logged successfully"
+    },
+    "loginAttemptFailed": "Login attempt failed",
+    "@loginAttemptFailed":{
+      "description": "Login attempt failed"
+    },
+    "pleaseTryAgain": "please try again!",
+    "@pleaseTryAgain":{
+      "description": "please try again!"
+    },
+    "signInWith": "Sign in with",
+    "@signInWith":{
+      "description": "Sign in with"
+    },
+    "createANewAccount": "Create a New Account?",
+    "@createANewAccount":{
+      "description": "Create a New Account?"
+    },
+    "signUp": "Sign Up",
+    "@signUp":{
+      "description": "Sign Up"
+    },
+    "mr": "Mr.",
+    "@mr":{
+      "description": "Mr."
+    },
+    "mrs": "Mrs.",
+    "@mrs":{
+      "description": "Mrs."
+    },
+    "firstName": "First Name",
+    "@firstName":{
+      "description": "First Name"
+    },
+    "lastName": "Last Name",
+    "@lastName":{
+      "description": "Last Name"
+    },
+    "pleaseEnterFirstName": "Please enter first name",
+    "@pleaseEnterFirstName":{
+      "description": "Please enter first name"
+    },
+    "pleaseEnterLastName": "Please enter last name",
+    "@pleaseEnterLastName":{
+      "description": "Please enter last name"
+    },
+    "phoneNumber": "Phone number",
+    "@phoneNumber":{
+      "description": "Phone number"
+    },
+    "pleaseEnterPhoneNumber": "Please enter phone number",
+    "@pleaseEnterPhoneNumber":{
+      "description": "Please enter phone number"
+    },
+    "gender": "Gender",
+    "@gender":{
+      "description": "Gender"
+    },
+    "accountCreated": "Account created",
+    "@accountCreated":{
+      "description": "Account created"
+    },
+    "anotherAccountUsesThisEmail": "Another account uses this email,",
+    "@anotherAccountUsesThisEmail":{
+      "description": "Another account uses this email,"
+    },
+    "pleaseTryAnotherOne": "please try another one!",
+    "@pleaseTryAnotherOne":{
+      "description": "please try another one!"
+    },
+    "failedToCreateAccount": "Failed to create account",
+    "@failedToCreateAccount":{
+      "description": "Failed to create account"
+    },
+    "alreadyHaveAnAccount": "Already Have An Account?",
+    "@alreadyHaveAnAccount":{
+      "description": "Already Have An Account?"
+    },
+    "searchCategories": "Search Categories  ...",
+    "@searchCategories": {
+      "description": "Search Categories  ..."
+    },
+    "allCategories": "All Categories",
+    "@allCategories": {
+      "description": "All Categories"
+    },
+    "iBookings": "I   Bookings",
+    "@iBookings": {
+      "description": "I   Bookings"
+    },
+    "noUpcomingOrders": "No Upcoming Orders!",
+    "@noUpcomingOrders": {
+      "description": "No Upcoming Orders!"
+    },
+    "currentlyNoUpcomingOrder": "Currently you don’t have any upcoming order. Place and track your orders from here.",
+    "@currentlyNoUpcomingOrder": {
+      "description": "Currently you don’t have any upcoming order. Place and track your orders from here."
+    },
+    "viewAllServices": "View all services",
+    "@viewAllServices": {
+      "description": "View all services"
+    },
+    "upcoming": "Upcoming",
+    "@upcoming": {
+      "description": "Upcoming"
+    },
+    "history": "History",
+    "@history": {
+      "description": "History"
+    },
+    "draft": "Draft",
+    "@draft": {
+      "description": "Draft"
+    },
+    "acInstallation": "AC Installation",
+    "@acInstallation": {
+      "description": "AC Installation"
+    },
+    "referenceCodeD571224": "Reference Code: #D-571224",
+    "@referenceCodeD571224": {
+      "description": "Reference Code: #D-571224"
+    },
+    "status": "Status",
+    "@status": {
+      "description": "Status"
+    },
+    "confirmed": "Confirmed",
+    "@confirmed": {
+      "description": "Confirmed"
+    },
+    "customDateTime": "8:00-9:00 AM,  09 Dec",
+    "@customDateTime": {
+      "description": "8:00-9:00 AM,  09 Dec"
+    },
+    "schedule": "Schedule",
+    "@schedule": {
+      "description": "Schedule"
+    },
+    "westinghouse": "Westinghouse",
+    "@westinghouse": {
+      "description": "Westinghouse"
+    },
+    "serviceProvider": "Service provider",
+    "@serviceProvider": {
+      "description": "Service provider"
+    },
+    "call": "Call",
+    "@call": {
+      "description": "Call"
+    },
+    "multiMaskFacial": "Multi Mask Facial",
+    "@multiMaskFacial": {
+      "description": "Multi Mask Facial"
+    },
+    "pending": "Pending",
+    "@pending": {
+      "description": "Pending"
+    },
+    "sindenayu": "Sindenayu",
+    "@sindenayu": {
+      "description": "Sindenayu"
+    },
+    "orderDetails": "Order Details",
+    "@orderDetails": {
+      "description": "Order Details"
+    },
+    "viewBill": "View Bill",
+    "@viewBill": {
+      "description": "View Bill"
+    },
+    "createdBy": "Created by:",
+    "@createdBy": {
+      "description": "Created by:"
+    },
+    "time": "Time",
+    "@time": {
+      "description": "Time"
+    },
+    "inWay": "In way",
+    "@inWay": {
+      "description": "In way"
+    },
+    "delivered": "Delivered",
+    "@delivered": {
+      "description": "Delivered"
+    },
+    "price": "Price",
+    "@price": {
+      "description": "Price"
+    },
+    "location": "Location",
+    "@location": {
+      "description": "Location"
+    },
+    "openMap": "Open Map",
+    "@openMap": {
+      "description": "Open Map"
+    },
+    "notes": "Notes",
+    "@notes": {
+      "description": "Notes"
+    },
+    "noCreatedOrderYet": "You don't created any order yet",
+    "@noCreatedOrderYet": {
+      "description": "You don't created any order yet"
+    },
+    "pleaseCreateSome": "please create some!",
+    "@pleaseCreateSome": {
+      "description": "please create some!"
+    },
+    "noOrders": "No Orders!",
+    "@noOrders": {
+      "description": "No Orders!"
+    },
+    "noOrderYet": "You don't have any order yet, Please place one",
+    "@noOrderYet": {
+      "description": "You don't have any order yet, Please place one"
+    },
+    "aED": "AED",
+    "@aED": {
+      "description": "AED"
+    },
+    "noDoneOrders": "No Done orders!",
+    "@noDoneOrders": {
+      "description": "No Done orders!"
+    },
+    "noCancelledOrders": "No Cancelled orders!",
+    "@noCancelledOrders": {
+      "description": "No Cancelled orders!"
+    },
+    "beautyParlour": "Beauty parlour",
+    "@beautyParlour": {
+      "description": "Beauty parlour"
+    },
+    "atYourHome": "at your home",
+    "@atYourHome": {
+      "description": "at your home"
+    },
+    "plumberAndExpart": "Plumber & expart",
+    "@plumberAndExpart": {
+      "description": "Plumber & expart"
+    },
+    "nearbyYou": "nearby you",
+    "@nearbyYou": {
+      "description": "nearby you"
+    },
+    "professionalHome": "Professional home",
+    "@professionalHome": {
+      "description": "Professional home"
+    },
+    "cleaning": "cleaning",
+    "@cleaning": {
+      "description": "cleaning"
+    },
+    "verificationCode": "Verification code",
+    "@verificationCode": {
+      "description": "Verification code"
+    },
+    "weJustSendYouAVerifyCode": "We just send you a verify code to the email address '",
+    "@weJustSendYouAVerifyCode": {
+      "description": "We just send you a verify code to the email address '"
+    },
+    "checkYourInbox": "'. check your inbox to get them",
+    "@checkYourInbox": {
+      "description": "'. check your inbox to get them"
+    },
+    "pleaseFillUpAllFields": "Please fill up all fields.",
+    "@pleaseFillUpAllFields": {
+      "description": "Please fill up all fields."
+    },
+    "emailVerified": "Email verified! please login",
+    "@emailVerified": {
+      "description": "Email verified! please login"
+    },
+    "somethingWentWrong": "Something went wrong! please try again",
+    "@somethingWentWrong": {
+      "description": "Something went wrong! please try again"
+    },
+    "wrongOTP": "Wrong OTP! please try again",
+    "@wrongOTP": {
+      "description": "Wrong OTP! please try again"
+    },
+    "continueContinue": "Continue",
+    "@continueContinue": {
+      "description": "Continue"
+    },
+    "accountCreationVerificationCode": "Account creation verification code :: 😀 :: Zona",
+    "@accountCreationVerificationCode": {
+      "description": "Account creation verification code :: 😀 :: Zona"
+    },
+    "hello": "Hello",
+    "@hello": {
+      "description": "Hello"
+    },
+    "theEmailVerificationCode": "Here's the email verification code.",
+    "@theEmailVerificationCode": {
+      "description": "Here's the email verification code."
+    },
+    "thisCodeExpires": "This code expires after 2 days.",
+    "@thisCodeExpires": {
+      "description": "This code expires after 2 days."
+    },
+    "code": "Code: ",
+    "@code": {
+      "description": "Code: "
+    },
+    "ifYouAreNotTryingToCreate": "If you are not trying to create an account on Zona",
+    "@ifYouAreNotTryingToCreate": {
+      "description": "If you are not trying to create an account on Zona"
+    },
+    "youCanJustIgnoreEmail": "you can just ignore this email.",
+    "@youCanJustIgnoreEmail": {
+      "description": "you can just ignore this email."
+    },
+    "sincerely": "Sincerely",
+    "@sincerely": {
+      "description": "Sincerely"
+    },
+    "zonaTeam": "Zona Team",
+    "@zonaTeam": {
+      "description": "Zona Team"
+    },
+    "resend": "Resend",
+    "@resend": {
+      "description": "Resend"
+    },
+    "resendIn": "Re-send In",
+    "@resendIn": {
+      "description": "Re-send In"
+    },
+    "getStarted": "Get Started",
+    "@getStarted": {
+      "description": "Get Started"
+    },
+    "rateZonaApplication": "Rate Zona Application",
+    "@rateZonaApplication": {
+      "description": "Rate Zona Application"
+    },
+    "yourFeedback": "Your feedback will help us to make",
+    "@yourFeedback": {
+      "description": "Your feedback will help us to make"
+    },
+    "improvements": "improvements",
+    "@improvements": {
+      "description": "improvements"
+    },
+    "noThanks": "No, Thanks",
+    "@noThanks": {
+      "description": "No, Thanks"
+    },
+    "rateInStore": "Rate in Store",
+    "@rateInStore": {
+      "description": "Rate in Store"
+    },
+    "referFriend": "Refer a Friend &",
+    "@referFriend": {
+      "description": "Refer a Friend &"
+    },
+    "get50Off": "Get 50% off",
+    "@get50Off": {
+      "description": "Get 50% off"
+    },
+    "get50OffUpto20": "- Get 50% off upto \\$20 after your friend’s 1st order",
+    "@get50OffUpto20": {
+      "description": "- Get 50% off upto \\$20 after your friend’s 1st order"
+    },
+    "yourFriendGets50Off": "Your friend gets 50% off on their 1st order",
+    "@yourFriendGets50Off": {
+      "description": "Your friend gets 50% off on their 1st order"
+    },
+    "editProfile": "Edit Profile",
+    "@editProfile": {
+      "description": "Edit Profile"
+    },
+    "updateYourInformation": "Update your information below",
+    "@updateYourInformation": {
+      "description": "Update your information below"
+    },
+    "pleaseAddMobileNumber": "Please add mobile number",
+    "@pleaseAddMobileNumber": {
+      "description": "Please add mobile number"
+    },
+    "mobileNumber": "Mobile number",
+    "@mobileNumber": {
+      "description": "Mobile number"
+    },
+    "save": "Save",
+    "@save": {
+      "description": "Save"
+    },
+    "fullName": "Full Name",
+    "@fullName": {
+      "description": "Full Name"
+    },
+    "userName": "User Name",
+    "@userName": {
+      "description": "User Name"
+    },
+    "createOrder": "Create Order",
+    "@createOrder": {
+      "description": "Create Order"
+    },
+    "pleaseProvideOrderInformation": "Please provide order information below",
+    "@pleaseProvideOrderInformation": {
+      "description": "Please provide order information below"
+    },
+    "pleaseSelectADate": "Please select a date",
+    "@pleaseSelectADate": {
+      "description": "Please select a date"
+    },
+    "pleaseSelectValidDate": "Please select a valid date",
+    "@pleaseSelectValidDate": {
+      "description": "Please select a valid date"
+    },
+    "selectDate": "Select Date",
+    "@selectDate": {
+      "description": "Select Date"
+    },
+    "fieldRequired": "Field Required",
+    "@fieldRequired": {
+      "description": "Field Required"
+    },
+    "selectTime": "Select Time",
+    "@selectTime": {
+      "description": "Select Time"
+    },
+    "pleaseSetLocation": "Please set location",
+    "@pleaseSetLocation": {
+      "description": "Please set location"
+    },
+    "locationSet": "Location Set!",
+    "@locationSet": {
+      "description": "Location Set!"
+    },
+    "mapLocation": "Map Location",
+    "@mapLocation": {
+      "description": "Map Location"
+    },
+    "pleaseAddAddress": "Please add address",
+    "@pleaseAddAddress": {
+      "description": "Please add address"
+    },
+    "fullAddress": "Full address",
+    "@fullAddress": {
+      "description": "Full address"
+    },
+    "pleaseAddADescription": "Please add a description",
+    "@pleaseAddADescription": {
+      "description": "Please add a description"
+    },
+    "writeYourNotesHere": "Write your notes here",
+    "@writeYourNotesHere": {
+      "description": "Write your notes here"
+    },
+    "serverDidNotRespond": "Server didn't respond, please try again",
+    "@serverDidNotRespond": {
+      "description": "Server didn't respond, please try again"
+    },
+    "orderCreatedSuccessfully": "Order created successfully",
+    "@orderCreatedSuccessfully": {
+      "description": "Order created successfully"
+    },
+    "whatYouAreLooking": "What you are looking",
+    "@whatYouAreLooking": {
+      "description": "What you are looking"
+    },
+    "searchWhatYouNeed": "Search what you need...",
+    "@searchWhatYouNeed": {
+      "description": "Search what you need..."
+    },
+    "forToday": "for today",
+    "@forToday": {
+      "description": "for today"
+    },
+    "beautyServices": "Beauty Services",
+    "@beautyServices": {
+      "description": "Beauty Services"
+    },
+    "seeAll": "See All",
+    "@seeAll": {
+      "description": "See All"
+    },
+    "cleaningServices": "Cleaning Services",
+    "@cleaningServices": {
+      "description": "Cleaning Services"
+    },
+    "carWash": "Car wash",
+    "@carWash": {
+      "description": "Car wash"
+    },
+    "home": "Home",
+    "@home": {
+      "description": "Home"
+    },
+    "paymentMethods": "Payment Methods",
+    "@paymentMethods": {
+      "description": "Payment Methods"
+    },
+    "address": "Address",
+  "payNow" : "Pay Now",
+  "cashOndelivery" : "Cash On Delivery",
+    "@address": {
+      "description": "Address"
+    },
+    "notifications": "Notifications",
+    "@notifications": {
+      "description": "Notifications"
+    },
+    "offers": "Offers",
+    "@offers": {
+      "description": "Offers"
+    },
+    "support": "Support",
+    "@support": {
+      "description": "Support"
+    },
+    "colourScheme": "Colour Scheme",
+    "@colourScheme": {
+      "description": "Colour Scheme"
+    },
+    "light": "  Light",
+    "@light": {
+      "description": "  Light"
+    },
+    "dark": "Dark",
+    "@dark": {
+      "description": "Dark"
+    },
+    "currentLocation": "CURRENT LOCATION",
+    "@currentLocation": {
+      "description": "CURRENT LOCATION"
+    },
+    "jamesStreet": "15A, James Street",
+    "@jamesStreet": {
+      "description": "15A, James Street"
+    },
+    "iNotifications": "I Notifications",
+    "@iNotifications": {
+      "description": "I Notifications"
+    },
+    "recent": "Recent ",
+    "@recent": {
+      "description": "Recent "
+    },
+    "iProfile": "I Profile",
+    "@iProfile": {
+      "description": "I Profile"
+    },
+    "selectLocation": "Select Location",
+    "@selectLocation": {
+      "description": "Select Location"
+    },
+    "saveAddress": "Save Address",
+    "@saveAddress": {
+      "description": "Save Address"
+    },
+    "noNotifications": "No Notifications!",
+    "@noNotifications": {
+      "description": "No Notifications!"
+    },
+    "youDoNotHaveNotificationYet": "You don't have any notification yet. Please place order",
+    "@youDoNotHaveNotificationYet": {
+      "description": "You don't have any notification yet. Please place order"
+    },
+    "searchByNamePrice": "Search by name, price..",
+    "@searchByNamePrice": {
+      "description": "Search by name, price.."
+    },
+    "startsFrom": "Starts From",
+    "@startsFrom": {
+      "description": "Starts From"
+    },
+    "myLocation": "My Location",
+    "@myLocation": {
+      "description": "My Location"
+    },
+    "cancel": "Cancel",
+    "@cancel": {
+      "description": "Cancel"
+    },
+    "rate": "Rate",
+    "@rate": {
+      "description": "Rate"
+    },
+    "rateService": "Rate Service",
+    "@rateService": {
+      "description": "Rate Service"
+    },
+    "typeOfProperty": "Type of Property",
+    "@typeOfProperty": {
+      "description": "Type of Property"
+    },
+    "atHome": "At Home",
+    "@atHome": {
+      "description": "At Home"
+    },
+    "atSite": "At Site",
+    "@atSite": {
+      "description": "At Site"
+    },
+    "office": "Office",
+    "@office": {
+      "description": "Office"
+    },
+    "vila": "Villa",
+    "@vila": {
+      "description": "Villa"
+    },
+    "old": "Old",
+    "@old": {
+      "description": "Old"
+    },
+    "newNew": "New",
+    "@newNew": {
+      "description": "New"
+    },
+    "serviceCost": "Service cost",
+    "@serviceCost": {
+      "description": "Service cost"
+    },
+    "totalCost": "Total cost",
+    "@totalCost": {
+      "description": "Total cost"
+    },
+    "colorPicker": "ColorPicker",
+    "@colorPicker": {
+      "description": "ColorPicker"
+    },
+    "totalAED": "Total:  AED",
+    "@totalAED": {
+      "description": "Total:  AED"
+    },
+    "billDetails": "Bill Details",
+    "@billDetails": {
+      "description": "Bill Details"
+    },
+    "saveDraft": "Save Draft",
+    "@saveDraft": {
+      "description": "Save Draft"
+    },
+    "bookNow": "Book Now",
+    "@bookNow": {
+      "description": "Book Now"
+    },
+    "searchByNameLocation": "Search by name, location..",
+    "@searchByNameLocation": {
+      "description": "Search by name, location.."
+    },
+    "i": "I",
+    "@i": {
+      "description": "I"
+    },
+    "providers": " Providers",
+    "@providers": {
+      "description": " Providers"
+    },
+    "recommended": "Recommended",
+    "@recommended": {
+      "description": "Recommended"
+    },
+    "products": "Products, ",
+    "@products": {
+      "description": "Products, "
+    },
+    "explore": "Explore!",
+    "@explore": {
+      "description": "Explore!"
+    },
+    "visit": "Visit",
+    "@visit": {
+      "description": "Visit"
+    },
+    "product": "Product",
+    "@product": {
+      "description": "Product"
+    },
+    "passwordIsRequired": "Password is Required",
+    "@passwordIsRequired": {
+      "description": "Password is Required"
+    },
+    "passwordMustMinimumEightCharacters": "Password must minimum eight characters",
+    "@passwordMustMinimumEightCharacters": {
+      "description": "Password must minimum eight characters"
+    },
+    "passwordAtLeastOneUppercaseLetter": "Password at least one uppercase letter, one lowercase letter and one number",
+    "@passwordAtLeastOneUppercaseLetter": {
+      "description": "Password at least one uppercase letter, one lowercase letter and one number"
+    },
+    "daysAgo": "days ago",
+    "@daysAgo": {
+      "description": "days ago"
+    },
+    "hoursAgo": "hours ago",
+    "@hoursAgo": {
+      "description": "hours ago"
+    },
+    "minutesAgo": "minutes ago",
+    "@minutesAgo": {
+      "description": "minutes ago"
+    },
+    "secondsAgo": "seconds ago",
+    "@secondsAgo": {
+      "description": "seconds ago"
+    },
+    "justNow": "just now",
+    "@justNow": {
+      "description": "just now"
+    },
+    "phone": "Phone",
+    "@phone": {
+      "description": "Phone"
+    },
+  "paymentLoadingMsg" : "Your data is under processing, please be patient....",
+  "homePage" : "Home Page"
+}

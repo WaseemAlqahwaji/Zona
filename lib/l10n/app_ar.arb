@@ -1,0 +1,193 @@
+{
+    "language": "العربية",
+    "continueAsAGuest": "المتابعة كضيف",
+    "signIn": "تسجيل دخول",
+    "emailAddress": "عنوان البريد الالكتروني",
+    "pleaseEnterEmail": "الرجاء إدخال البريد الالكتروني",
+    "email": "البريد الالكتروني",
+    "pleaseEnterPassword": "الرجاء إدخال كلمة المرور",
+    "password": "كلمة المرور",
+    "wrongEmailOrPassword": "البريد الالكتروني أو كلمة المرور خاطئة",
+    "loggedSuccessfully": "تم التسجيل بنجاح",
+    "loginAttemptFailed": "محاولة تسجيل دخول خاطئة",
+    "pleaseTryAgain": "الرجاء المحاولة مرة أخرى!",
+    "signInWith": "تسجيل الدخول عن طريق",
+    "createANewAccount": "إنشاء حساب جديد؟",
+    "signUp": "التسجيل",
+    "mr": "سيد",
+    "mrs": "سيدة",
+    "firstName": "الاسم الأول",
+    "lastName": "الاسم الأخير",
+    "pleaseEnterFirstName": "الرجاء إدخال الاسم الأول",
+    "pleaseEnterLastName": "الرجاء إدخال الاسم الأخير",
+    "phoneNumber": "رقم الهاتف",
+    "pleaseEnterPhoneNumber": "الرجاء إدخال رقم الهاتف",
+    "gender": "الجنس",
+    "accountCreated": "تم إنشاء حساب",
+    "anotherAccountUsesThisEmail": "حساب آخر يستخدم هذا البريد الالكتروني,",
+    "pleaseTryAnotherOne": "الرجاء إدخال عنوان آخر",
+    "failedToCreateAccount": "فشل في إنشاء حساب",
+    "alreadyHaveAnAccount": "لديك حساب مسبقا؟",
+    "searchCategories": "Search Categories  ...",
+    "allCategories": "All Categories",
+    "iBookings": "I   Bookings",
+    "noUpcomingOrders": "لا توجد طلبات قادمة",
+    "currentlyNoUpcomingOrder": "حاليا لا تملك طلبات قادمة. يمكنك تعقب الطلبات هنا",
+    "viewAllServices": "اظهار كل الخدمات",
+    "upcoming": "Upcoming",
+    "history": "History",
+    "draft": "مسودة",
+    "acInstallation": "AC تركيب",
+    "referenceCodeD571224": "رقم مرجعي: #D-571224",
+    "status": "الحالة",
+    "confirmed": "تم التأكيد",
+    "customDateTime": "8:00-9:00 ص, 9 كانون أول",
+    "schedule": "Schedule",
+    "westinghouse": "Westinghouse",
+    "serviceProvider": "مزود الخدمة",
+    "call": "Call",
+    "multiMaskFacial": "Multi Mask Facial",
+    "pending": "انتظار",
+    "sindenayu": "Sindenayu",
+    "orderDetails": "تفاصيل الطلب",
+    "viewBill": "اظهر الفاتورة",
+    "createdBy": "أنشئ من قبل:",
+    "time": "الوقت",
+    "inWay": "In way",
+    "delivered": "تم التسليم",
+    "price": "السعر",
+    "location": "الموقع",
+    "openMap": "افتح الخريطة",
+    "notes": "ملاحظات",
+    "noCreatedOrderYet": "لم تقم بإنشاء أي طلب بعد",
+    "pleaseCreateSome": "قم بإنشاء بعض الطلبات",
+    "noOrders": "لا يوجد طلبات!",
+    "noOrderYet": "لا تملك أي طلبات بعد, الرجاء إنشاء  بعض طلبات",
+    "aED": "AED",
+    "noDoneOrders": "No Done orders!",
+    "noCancelledOrders": "لا يوجد طلبات ملغية!",
+    "beautyParlour": "Beauty parlour",
+    "atYourHome": "عند منزلك",
+    "plumberAndExpart": "Plumber & expart",
+    "nearbyYou": "بالقرب منك",
+    "professionalHome": "Professional home",
+    "cleaning": "التنظيف",
+    "verificationCode": "رمز التحقق",
+    "weJustSendYouAVerifyCode": "لقد قمنا بإرسال رمز التحقق لعنوان البريد الالكتروني '",
+    "checkYourInbox": "'. قم بتفقد البريد الوارد",
+    "pleaseFillUpAllFields": "الرجاء ملء جميع الحقول",
+    "emailVerified": "تم تأكيد البريد الالكتروني, قم بتسجيل الدخول الآن",
+    "somethingWentWrong": "حدث خطأ غير متوقع! الرجاء المحاولة مرة أخرى",
+    "wrongOTP": "رمز التحقق المدخل خطأ، يرجى المحاولة مرة أخرى !",
+    "continueContinue": "المتابعة",
+    "accountCreationVerificationCode": "رمز التحقق الخاص بإنشاء حساب :: 😀 :: Zona",
+    "hello": "مرحبا",
+    "theEmailVerificationCode": "هذه الرسالة تتضمن رمز التحقق",
+    "thisCodeExpires": "إن رمز التحقق صالح لمدة يومين فقط.",
+    "code": "الرمز: ",
+    "ifYouAreNotTryingToCreate": "اذا لم تكن ترغب بإنشاء حساب على Zona",
+    "youCanJustIgnoreEmail": "تستطيع ببساطة تجاهل هذه الرسالة.",
+    "sincerely": "مع خالص الشكر",
+    "zonaTeam": "Zona فريق العمل في",
+    "resend": "إعادة ارسال",
+    "resendIn": "إعادة ارسال في",
+    "getStarted": "البدء",
+    "rateZonaApplication": "قم بتققيم برنامج Zona",
+    "yourFeedback": "ملاحظاتك ستساعدنا على القيام بمزيد من",
+    "improvements": "التحسينات",
+    "noThanks": "لا شكرا",
+    "rateInStore": "قم بالتقييم في متجر جوجل",
+    "referFriend": "Refer a Friend &",
+    "get50Off": "احصل على حسم 50%",
+    "get50OffUpto20": "- نسبة الحسم هي 50% و قد تصل قيمتها الى  \\$20 بعد قيام صديفك بأول طلب",
+    "yourFriendGets50Off": "يحصل صديقك على حسم 50% عند أول طلب",
+    "editProfile": "تعديل الملف",
+    "updateYourInformation": "عدل معلوماتك أدناه",
+    "pleaseAddMobileNumber": "الرجاء إضافة رقم جوال",
+    "mobileNumber": "رقم الجوال",
+    "save": "حفظ",
+    "fullName": "الاسم الكامل",
+    "userName": "اسم المستخدم",
+    "createOrder": "إنشئ طلب",
+    "pleaseProvideOrderInformation": "الرجاء إضافة معلومات للطلب أدناه",
+    "pleaseSelectADate": "الرجاء اختيار تاريخ",
+    "pleaseSelectValidDate": "الرجاء اختيار تاريخ صالح",
+    "selectDate": "اختر تاريخ",
+    "fieldRequired": "الحقل مطلوب",
+    "selectTime": "اختر الوقت",
+    "pleaseSetLocation": "الرجاء تحديد موقع",
+    "locationSet": "تحديد موقع!",
+    "mapLocation": "خريطة الموقع",
+    "pleaseAddAddress": "الرجاء إضافة عنوان",
+    "fullAddress": "العنوان بالتفصيل",
+    "pleaseAddADescription": "الرجاء إضافة وصف",
+    "writeYourNotesHere": "اكتب ملاحظاتك هنا",
+    "serverDidNotRespond": "المخدم لا يستجيب حاليا, الرجاء المحاولة من جديد",
+    "orderCreatedSuccessfully": "تم إنشاء الطلب بنجاح",
+    "whatYouAreLooking": "عن ماذا تبحث",
+    "searchWhatYouNeed": "ابحث عن ما تريد ...",
+    "forToday": "لليوم",
+    "beautyServices": "خدمات التجميل",
+    "seeAll": "إظهار الكل",
+    "cleaningServices": "خدمات التنظيف",
+    "carWash": "غسيل سيارة",
+    "home": "الرئيسية",
+    "paymentMethods": "طرق الدفع",
+    "address": "العنوان",
+    "notifications": "إشعارات",
+    "offers": "العروض",
+    "support": "الدعم",
+    "colourScheme": "نمط الألوان",
+    "light": "  Light",
+    "dark": "Dark",
+    "currentLocation": "الموقع الحالي",
+    "jamesStreet": "15A, James Street",
+    "iNotifications": "I Notifications",
+    "recent": "Recent ",
+    "iProfile": "I Profile",
+    "selectLocation": "اختر موقعا",
+    "saveAddress": "احفظ العنوان",
+    "noNotifications": "لا يوجد إشعارات",
+    "youDoNotHaveNotificationYet": "لا يوجد إشعارات حتى الآن, الرجاء إنشاء بعض الطلبات.",
+    "searchByNamePrice": "ابحث حسب الاسم و السعر ...",
+    "startsFrom": "بدءا من ",
+    "myLocation": "موقعي",
+    "cancel": "إلغاء",
+    "rate": "تقييم",
+    "rateService": "تقييم الخدمة",
+    "typeOfProperty": "Type of Property",
+    "atHome": "At Home",
+    "atSite": "At Site",
+    "office": "المكتب",
+    "vila": "Villa",
+    "old": "قديم",
+    "newNew": "جديد",
+    "serviceCost": "كلفة الخدمة",
+    "totalCost": "الكلفة الاجمالية",
+    "colorPicker": "اختيار الالوان",
+    "totalAED": "Total:  AED",
+    "billDetails": "تفاصيل الفاتورة",
+    "saveDraft": "حفظ المسودة",
+    "bookNow": "احجز الآن",
+    "searchByNameLocation": "ابحث حسب الاسم , الموقع ...",
+    "i": "I",
+    "providers": " المزودون",
+    "recommended": "مستحسن",
+    "products": "المنتجات, ",
+    "explore": "Explore!",
+    "visit": "Visit",
+    "product": "المنتج",
+    "passwordIsRequired": "كلمة المرور مطلوبة",
+    "passwordMustMinimumEightCharacters": "كلمة المرور لا تقل عن ثمان محارف",
+    "passwordAtLeastOneUppercaseLetter": "يجب أن تحوي كلمة المرور على حرف كبير و حرف صغير ورقم ",
+    "daysAgo": "أيام مضت",
+    "hoursAgo": "ساعات مضت",
+    "minutesAgo": "دقائق مضت",
+    "secondsAgo": "ثواني مضت",
+    "justNow": "الآن",
+    "phone": "الهاتف",
+    "payNow" : "ادفع الآن",
+    "cashOndelivery" : "الدفع عند الاستلام",
+    "paymentLoadingMsg" : "يتم الآن معالجة طلبك، الرجاء الانتظار....",
+    "homePage" : "الصفحة الرئيسية"
+}
